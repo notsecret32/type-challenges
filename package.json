@@ -2,7 +2,7 @@
   "name": "type-challenges",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@8.12.1",
+  "packageManager": "pnpm@8.15.8+sha256.691fe176eea9a8a80df20e4976f3dfb44a04841ceb885638fe2a26174f81e65e",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "repository": "https://github.com/antfu/type-challenges.git",
